@@ -57,5 +57,8 @@ Effect: all cards (not roles) on the table shift to the player to the right.
 Effect: all un-cut cards in front of the cutter are set aside until the next round and cannot be cut this round.
 Variant: all cut cards in front of the cutter are flipped over and set aside as well. Additional cards may need to be cut this round.
 
+## Remote Detonator & Remote Receiver
+Effect: when the detonator is cut, if the receiver has not been cut, the cutter may elect to detonate the bomb.
+
 ## Mysterious Component
 Effect: make your own rules, specified before the game begins.
