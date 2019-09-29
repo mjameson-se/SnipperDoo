@@ -14,6 +14,7 @@ These are common decks. You should try out different ones and modify them to sui
 - 1 Bribe Wire
 - 1 Hair Trigger
 - 2 Colored Wires
+- 2 Alligator clips
 - Remote detonator
 - Remote receiver
 - Blackmail
@@ -26,4 +27,5 @@ These are common decks. You should try out different ones and modify them to sui
 - Snafu
 - Warning Sign
 - Polygraph
+- Mysterious Component
 
