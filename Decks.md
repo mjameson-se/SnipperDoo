@@ -14,4 +14,16 @@ These are common decks. You should try out different ones and modify them to sui
 - 1 Bribe Wire
 - 1 Hair Trigger
 - 2 Colored Wires
-- 
+- Remote detonator
+- Remote receiver
+- Blackmail
+- Token Bribe
+- Reorg
+- 3 Bomb Manuals
+- 2 Fumble Left
+- 2 Fumble Right
+- Wire Guide
+- Snafu
+- Warning Sign
+- Polygraph
+
