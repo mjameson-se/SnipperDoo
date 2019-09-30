@@ -1,6 +1,13 @@
 # SnipperDoo
 Fast-paced hidden role bomb diffusion game, for five or more players.
 
+# The Story
+You and your colleagues have been called in to diffuse a bomb set in an iconic historical site.
+Civilians are being evacuated from the blast radius, but if the bomb goes off too soon, there will be many deaths. If you fail to diffuse the bomb, we face losing a major symbol of national pride. 
+We haven't figured out who is responsible yet, so assume they could have someone on the inside.
+So, no pressure huh? Oh one more thing: it's on a timer. I guess the terrorists thought we wouldn't find it so soon, so we have that going for us,
+but if you can't diffuse it in time, we'll have to pull you out. Good luck.
+
 # Components
 * Role cards, at least one per player.
 * 30 item cards, or 5 per player 
