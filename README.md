@@ -9,8 +9,8 @@ So, no pressure huh? Oh one more thing: it's on a timer. I guess the terrorists 
 but if you can't diffuse it in time, we'll have to pull you out. Good luck.
 
 # Components
-* Role cards, at least one per player.
-* 30 item cards, or 5 per player 
+* [Role](./Roles.md) cards, at least one per player.
+* 30 [item card](./Cards.md), or 5 per player 
 * One pair of scissors, or any arbitrary token to substitute - this isn't that kind of legacy game.
 
 # Basics
